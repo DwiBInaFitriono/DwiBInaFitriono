@@ -181,13 +181,7 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiBInaFitriono&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
-
-</div>
 
 ---
 
