@@ -75,8 +75,10 @@ def render_row(icons, y):
                 f'<path d="{path_d}" fill="{fg}"/></g>'
             )
             x += ICON_BOX + GAP
-        x += GAP
-    return parts, x // 2 - GAP
+    # one_set_w = width of a single set (= n * (ICON_BOX + GAP))
+    # This is the exact translate amount for a seamless loop with no jump.
+    one_set_w = len(icons) * (ICON_BOX + GAP)
+    return parts, one_set_w
 
 
 def generate():
@@ -97,8 +99,8 @@ def generate():
         "<style>",
         f".r1{{animation:m1 {dur1}s linear infinite;}}",
         f".r2{{animation:m2 {dur2}s linear infinite;}}",
-        f"@keyframes m1{{from{{transform:translateX(0)}}to{{transform:translateX(-{w1+GAP}px)}}}}",
-        f"@keyframes m2{{from{{transform:translateX(-{w2+GAP}px)}}to{{transform:translateX(0)}}}}",
+        f"@keyframes m1{{from{{transform:translateX(0)}}to{{transform:translateX(-{w1}px)}}}}",
+        f"@keyframes m2{{from{{transform:translateX(-{w2}px)}}to{{transform:translateX(0)}}}}",
         "</style>",
         '<g clip-path="url(#clip)">',
         '<g class="r1">',
