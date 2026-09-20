@@ -156,9 +156,9 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwiBInaFitriono/DwiBInaFitriono/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DwiBInaFitriono/DwiBInaFitriono/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/DwiBInaFitriono/DwiBInaFitriono/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwiBInaFitriono/DwiBInaFitriono/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DwiBInaFitriono/DwiBInaFitriono/output/snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/DwiBInaFitriono/DwiBInaFitriono/output/snake.svg" />
 </picture>
 
 </div>
@@ -170,14 +170,14 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwiBInaFitriono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiBInaFitriono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DwiBInaFitriono&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=DwiBInaFitriono&theme=algolia&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiBInaFitriono&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DwiBInaFitriono&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
 
 </div>
 
@@ -185,7 +185,7 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiBInaFitriono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiBInaFitriono&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
