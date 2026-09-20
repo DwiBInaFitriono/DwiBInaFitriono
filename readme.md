@@ -122,7 +122,7 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css&theme=dark" />
 
 **Frameworks & Libraries**
 
