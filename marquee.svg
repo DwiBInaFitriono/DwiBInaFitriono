@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="96" viewBox="0 0 860 96">
+<rect width="860" height="96" fill="#0d1117"/>
+<defs>
+  <clipPath id="clip">
+    <rect width="860" height="96"/>
+  </clipPath>
+  <linearGradient id="gl" x1="0" x2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="gr" x1="1" x2="0">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+.r1{animation:m1 16.4s linear infinite;}
+.r2{animation:m2 10.3s linear infinite;}
+@keyframes m1{from{transform:translateX(0)}to{transform:translateX(-993px)}}
+@keyframes m2{from{transform:translateX(-629px)}to{transform:translateX(0)}}
+</style>
+<g clip-path="url(#clip)">
+<g class="r1">
+<rect x="0" y="10" width="52" height="28" rx="5" fill="#777BB4"/>
+<text x="26" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">PHP</text>
+<rect x="62" y="10" width="106" height="28" rx="5" fill="#F7DF1E"/>
+<text x="115" y="28" fill="#000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">JAVASCRIPT</text>
+<rect x="178" y="10" width="106" height="28" rx="5" fill="#3178C6"/>
+<text x="231" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">TYPESCRIPT</text>
+<rect x="294" y="10" width="67" height="28" rx="5" fill="#E34F26"/>
+<text x="327" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">HTML5</text>
+<rect x="371" y="10" width="59" height="28" rx="5" fill="#1572B6"/>
+<text x="400" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">CSS3</text>
+<rect x="440" y="10" width="90" height="28" rx="5" fill="#478CBF"/>
+<text x="485" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">GDSCRIPT</text>
+<rect x="540" y="10" width="82" height="28" rx="5" fill="#FF2D20"/>
+<text x="581" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">LARAVEL</text>
+<rect x="632" y="10" width="74" height="28" rx="5" fill="#4FC08D"/>
+<text x="669" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">VUE.JS</text>
+<rect x="716" y="10" width="82" height="28" rx="5" fill="#339933"/>
+<text x="757" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">NODE.JS</text>
+<rect x="808" y="10" width="98" height="28" rx="5" fill="#7952B3"/>
+<text x="857" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">BOOTSTRAP</text>
+<rect x="916" y="10" width="67" height="28" rx="5" fill="#FF2D20"/>
+<text x="949" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">BLADE</text>
+<rect x="1003" y="10" width="52" height="28" rx="5" fill="#777BB4"/>
+<text x="1029" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">PHP</text>
+<rect x="1065" y="10" width="106" height="28" rx="5" fill="#F7DF1E"/>
+<text x="1118" y="28" fill="#000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">JAVASCRIPT</text>
+<rect x="1181" y="10" width="106" height="28" rx="5" fill="#3178C6"/>
+<text x="1234" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">TYPESCRIPT</text>
+<rect x="1297" y="10" width="67" height="28" rx="5" fill="#E34F26"/>
+<text x="1330" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">HTML5</text>
+<rect x="1374" y="10" width="59" height="28" rx="5" fill="#1572B6"/>
+<text x="1403" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">CSS3</text>
+<rect x="1443" y="10" width="90" height="28" rx="5" fill="#478CBF"/>
+<text x="1488" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">GDSCRIPT</text>
+<rect x="1543" y="10" width="82" height="28" rx="5" fill="#FF2D20"/>
+<text x="1584" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">LARAVEL</text>
+<rect x="1635" y="10" width="74" height="28" rx="5" fill="#4FC08D"/>
+<text x="1672" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">VUE.JS</text>
+<rect x="1719" y="10" width="82" height="28" rx="5" fill="#339933"/>
+<text x="1760" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">NODE.JS</text>
+<rect x="1811" y="10" width="98" height="28" rx="5" fill="#7952B3"/>
+<text x="1860" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">BOOTSTRAP</text>
+<rect x="1919" y="10" width="67" height="28" rx="5" fill="#FF2D20"/>
+<text x="1952" y="28" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">BLADE</text>
+</g>
+<g class="r2">
+<rect x="0" y="58" width="67" height="28" rx="5" fill="#4479A1"/>
+<text x="33" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">MYSQL</text>
+<rect x="77" y="58" width="59" height="28" rx="5" fill="#DD0031"/>
+<text x="106" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">TIDB</text>
+<rect x="146" y="58" width="52" height="28" rx="5" fill="#F05032"/>
+<text x="172" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">GIT</text>
+<rect x="208" y="58" width="74" height="28" rx="5" fill="#2496ED"/>
+<text x="245" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">DOCKER</text>
+<rect x="292" y="58" width="82" height="28" rx="5" fill="#007ACC"/>
+<text x="333" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">VS CODE</text>
+<rect x="384" y="58" width="74" height="28" rx="5" fill="#ffffff"/>
+<text x="421" y="76" fill="#000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">VERCEL</text>
+<rect x="468" y="58" width="82" height="28" rx="5" fill="#00979D"/>
+<text x="509" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">ARDUINO</text>
+<rect x="560" y="58" width="59" height="28" rx="5" fill="#660066"/>
+<text x="589" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">MQTT</text>
+<rect x="639" y="58" width="67" height="28" rx="5" fill="#4479A1"/>
+<text x="672" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">MYSQL</text>
+<rect x="716" y="58" width="59" height="28" rx="5" fill="#DD0031"/>
+<text x="745" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">TIDB</text>
+<rect x="785" y="58" width="52" height="28" rx="5" fill="#F05032"/>
+<text x="811" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">GIT</text>
+<rect x="847" y="58" width="74" height="28" rx="5" fill="#2496ED"/>
+<text x="884" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">DOCKER</text>
+<rect x="931" y="58" width="82" height="28" rx="5" fill="#007ACC"/>
+<text x="972" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">VS CODE</text>
+<rect x="1023" y="58" width="74" height="28" rx="5" fill="#ffffff"/>
+<text x="1060" y="76" fill="#000" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">VERCEL</text>
+<rect x="1107" y="58" width="82" height="28" rx="5" fill="#00979D"/>
+<text x="1148" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">ARDUINO</text>
+<rect x="1199" y="58" width="59" height="28" rx="5" fill="#660066"/>
+<text x="1228" y="76" fill="#fff" font-family="Verdana,sans-serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="0.8">MQTT</text>
+</g>
+</g>
+<rect width="70" height="96" fill="url(#gl)"/>
+<rect x="790" width="70" height="96" fill="url(#gr)"/>
+</svg>
