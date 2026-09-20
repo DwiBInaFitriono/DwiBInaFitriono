@@ -122,7 +122,17 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 <div align="center">
 
-<img src="./marquee.svg" alt="Tech Stack Marquee" width="100%"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,godot&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=laravel,vue,nodejs,bootstrap&theme=dark" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,docker,vscode,vercel,arduino&theme=dark" />
 
 </div>
 
