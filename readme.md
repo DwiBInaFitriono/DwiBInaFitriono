@@ -120,8 +120,6 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 ## Yang saya Pelajari
 
-<div align="center">
-
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,godot&theme=dark" />
@@ -133,8 +131,6 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 **Databases & Tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,git,docker,vscode,vercel,arduino&theme=dark" />
-
-</div>
 
 ## Kontribusi
 
