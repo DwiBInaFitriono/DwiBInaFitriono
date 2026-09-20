@@ -168,9 +168,7 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Kutipan Dev" />
 
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=DwiBInaFitriono&style=for-the-badge&color=58A6FF&label=DILIHAT" alt="Jumlah Pengunjung" />
 
