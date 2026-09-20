@@ -170,14 +170,14 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwiBInaFitriono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&locale=id" alt="Statistik GitHub" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiBInaFitriono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" alt="Streak GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DwiBInaFitriono&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiBInaFitriono&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiBInaFitriono&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&locale=id" alt="Bahasa Terbanyak" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiBInaFitriono&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
@@ -185,7 +185,7 @@ All projects: [GitHub Repositories](https://github.com/DwiBInaFitriono?tab=repos
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiBInaFitriono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="Grafik Aktivitas" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwiBInaFitriono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
